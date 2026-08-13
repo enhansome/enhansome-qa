@@ -1,0 +1,299 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Recent Trends"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "DilBert: Delaying Interaction Layers in Transformer-based Encoders for Efficient Open Domain Question Answering (2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/wissam-sib/dilbert",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-10-23T16:11:51Z",
+                "owner": "wissam-sib",
+                "repo": "dilbert",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR. (2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "github: https://github.com/xwhan/ProQA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-12T21:27:52Z",
+                "owner": "xwhan",
+                "repo": "ProQA",
+                "stars": 43
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Recent QA Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "About QA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Competitions in QA"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BERT",
+          "description": "A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-23T23:39:41Z",
+            "owner": "google-research",
+            "repo": "bert",
+            "stars": 40057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiDAF",
+          "description": "Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-31T01:34:05Z",
+            "owner": "allenai",
+            "repo": "bi-att-flow",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QANet",
+          "description": "A Q&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-30T06:39:26Z",
+            "owner": "localminimum",
+            "repo": "QANet",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R-Net",
+          "description": "An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-08T18:04:09Z",
+            "owner": "HKUST-KnowComp",
+            "repo": "R-Net",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrQA",
+          "description": "DrQA is a system for reading comprehension applied to open-domain question answering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-26T16:26:09Z",
+            "owner": "hitvoice",
+            "repo": "DrQA",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R-Net-in-Keras",
+          "description": "R-NET re-implementation in Keras.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-26T21:40:59Z",
+            "owner": "YerevaNN",
+            "repo": "R-NET-in-Keras",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "Codes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "karthinkncode's Datasets for Natural Language Processing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-04T22:32:03Z",
+            "owner": "karthikncode",
+            "repo": "nlp-datasets",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLIWOD's Question answering datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-28T13:26:30Z",
+            "owner": "semantic-systems",
+            "repo": "NLIWOD",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Dataset Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepMind Q&A Dataset; CNN/Daily Mail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-26T15:05:19Z",
+            "owner": "google-deepmind",
+            "repo": "rc-data",
+            "stars": 1296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NarrativeQA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-04-15T09:16:14Z",
+            "owner": "google-deepmind",
+            "repo": "narrativeqa",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELI5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-08-31T18:24:53Z",
+            "owner": "facebookresearch",
+            "repo": "ELI5",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewsQA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-22T18:15:13Z",
+            "owner": "Maluuba",
+            "repo": "newsqa",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQuestions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ReScript",
+            "last_commit": "2022-12-28T03:05:02Z",
+            "owner": "ysu1989",
+            "repo": "GraphQuestions",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CODAH Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-29T06:49:04Z",
+            "owner": "Websail-NU",
+            "repo": "CODAH",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "To the extent possible under law, seriousmac (the maintainer) has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:02.408Z",
+    "original_repository": "seriousran/awesome-qa",
+    "original_repository_sha": "b5d2f5f3030c35b772e2c0064cf896377b913724",
+    "enhanced_repository": "enhansome/enhansome-qa",
+    "enhanced_repository_description": null,
+    "title": "Awesome Question Answering with stars"
+  }
+}

@@ -77,7 +77,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40057
+            "stars": 40052
           }
         },
         {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:06:52.472Z",
+    "last_updated": "2026-08-14T16:01:58.700Z",
     "original_repository": "seriousran/awesome-qa",
     "original_repository_sha": "b5d2f5f3030c35b772e2c0064cf896377b913724",
     "enhanced_repository": "enhansome/enhansome-qa",

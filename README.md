@@ -218,7 +218,7 @@ Lanugage Analysis
 
 ## Dataset Collections
 
-* [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) ⭐ 918 | 🐛 5 | 📅 2020-01-04
+* [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) ⭐ 917 | 🐛 5 | 📅 2020-01-04
 * [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets) ⭐ 93 | 🐛 6 | 🌐 Java | 📅 2022-04-28
 
 ## Datasets
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

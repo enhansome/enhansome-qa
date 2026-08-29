@@ -17,12 +17,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dilbert for open domain question answering on Wikipedia",
+                    "homepage": null,
                     "id": 306680697,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-10-23T16:11:51Z",
+                    "open_issues": 0,
                     "owner": "wissam-sib",
                     "repo": "dilbert",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:00:06.656Z"
                 }
@@ -40,12 +45,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Progressively Pretrained Dense Corpus Index for Open-Domain QA and Information Retrieval",
+                    "homepage": null,
                     "id": 260049038,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-06-12T21:27:52Z",
+                    "open_issues": 4,
                     "owner": "xwhan",
                     "repo": "ProQA",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "information-retrieval",
+                      "natural-language-processing",
+                      "pytorch",
+                      "question-answering"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:00:06.656Z"
                 }
@@ -69,12 +84,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TensorFlow code and pre-trained models for BERT",
+            "homepage": "https://arxiv.org/abs/1810.04805",
             "id": 154747577,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-23T23:39:41Z",
+            "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046
+            "stars": 40046,
+            "topics": [
+              "google",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -85,12 +111,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.",
+            "homepage": "http://allenai.github.io/bi-att-flow",
             "id": 61758076,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
+            "open_issues": 74,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1546
+            "stars": 1546,
+            "topics": [
+              "bidaf",
+              "nlp",
+              "question-answering",
+              "squad",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -101,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tensorflow implementation of QANet for machine reading comprehension",
+            "homepage": null,
             "id": 109454407,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-05-30T06:39:26Z",
+            "open_issues": 22,
             "owner": "localminimum",
             "repo": "QANet",
-            "stars": 985
+            "stars": 985,
+            "topics": [
+              "cnn",
+              "machine-comprehension",
+              "nlp",
+              "squad",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -117,12 +165,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow Implementation of R-Net",
+            "homepage": null,
             "id": 112273500,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-08T18:04:09Z",
+            "open_issues": 6,
             "owner": "HKUST-KnowComp",
             "repo": "R-Net",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "machine-comprehension",
+              "nlp",
+              "r-net",
+              "squad",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -133,12 +192,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytorch implementation of Reading Wikipedia to Answer Open-Domain Questions.",
+            "homepage": null,
             "id": 95736081,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-26T16:26:09Z",
+            "open_issues": 9,
             "owner": "hitvoice",
             "repo": "DrQA",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "drqa",
+              "pytorch",
+              "squad"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -149,12 +217,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open R-NET (hy` առնետ 🐁) implementation and detailed analysis: https://git.io/vd8dx",
+            "homepage": "http://yerevann.github.io/2017/08/25/challenges-of-reproducing-r-net-neural-network-using-keras/",
             "id": 94326354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-12-26T21:40:59Z",
+            "open_issues": 14,
             "owner": "YerevaNN",
             "repo": "R-NET-in-Keras",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "nlp",
+              "pointer-network",
+              "squad"
+            ]
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         }
@@ -171,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of datasets/corpora for NLP tasks, in reverse chronological order. ",
+            "homepage": null,
             "id": 56541657,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-04T22:32:03Z",
+            "open_issues": 5,
             "owner": "karthikncode",
             "repo": "nlp-datasets",
-            "stars": 917
+            "stars": 917,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -187,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of tools, utilities, datasets and approaches towards realising natural language interfaces for the Web of Data. ",
+            "homepage": null,
             "id": 56748637,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2022-04-28T13:26:30Z",
+            "open_issues": 6,
             "owner": "semantic-systems",
             "repo": "NLIWOD",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         }
@@ -209,12 +298,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Question answering dataset featured in \"Teaching Machines to Read and Comprehend",
+            "homepage": null,
             "id": 43331133,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-26T15:05:19Z",
+            "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1296
+            "stars": 1296,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -225,12 +319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.",
+            "homepage": null,
             "id": 114897541,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-15T09:16:14Z",
+            "open_issues": 0,
             "owner": "google-deepmind",
             "repo": "narrativeqa",
-            "stars": 517
+            "stars": 517,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -241,12 +340,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scripts and links to recreate the ELI5 dataset.",
+            "homepage": null,
             "id": 170901791,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-31T18:24:53Z",
+            "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "ELI5",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -257,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for using Maluuba's NewsQA Dataset (public version)",
+            "homepage": "https://www.microsoft.com/en-us/research/project/newsqa-dataset/",
             "id": 75119842,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-22T18:15:13Z",
+            "open_issues": 7,
             "owner": "Maluuba",
             "repo": "newsqa",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -273,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A characteristic-rich dataset for factoid question answering described in the paper \"On Generating Characteristic-rich Question Sets for QA Evaluation\" - EMNLP'16",
+            "homepage": null,
             "id": 68859995,
             "language": "ReScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-28T03:05:02Z",
+            "open_issues": 0,
             "owner": "ysu1989",
             "repo": "GraphQuestions",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         },
@@ -289,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the CODAH dataset",
+            "homepage": null,
             "id": 179787566,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-29T06:49:04Z",
+            "open_issues": 0,
             "owner": "Websail-NU",
             "repo": "CODAH",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
         }
@@ -303,15 +422,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:00:06.656Z",
+    "last_updated": "2026-08-29T04:37:46.914Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of the Question Answering (QA)",
+      "homepage": null,
       "id": 141653699,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-01-13T02:23:01Z",
+      "open_issues": 1,
       "owner": "seriousran",
       "repo": "awesome-qa",
-      "stars": 768
+      "stars": 768,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bert",
+        "deepqa",
+        "machine-comprehension",
+        "nlp",
+        "question-answering",
+        "squad",
+        "watson"
+      ]
     },
     "original_repository_sha": "b5d2f5f3030c35b772e2c0064cf896377b913724",
     "enhanced_repository": "enhansome/enhansome-qa",

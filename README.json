@@ -23,7 +23,8 @@
                     "owner": "wissam-sib",
                     "repo": "dilbert",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:00:06.656Z"
                 }
               ]
             },
@@ -45,7 +46,8 @@
                     "owner": "xwhan",
                     "repo": "ProQA",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:00:06.656Z"
                 }
               ]
             }
@@ -72,8 +74,9 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40045
-          }
+            "stars": 40046
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -88,7 +91,8 @@
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1546
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -103,7 +107,8 @@
             "owner": "localminimum",
             "repo": "QANet",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -118,7 +123,8 @@
             "owner": "HKUST-KnowComp",
             "repo": "R-Net",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -133,7 +139,8 @@
             "owner": "hitvoice",
             "repo": "DrQA",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -148,7 +155,8 @@
             "owner": "YerevaNN",
             "repo": "R-NET-in-Keras",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         }
       ],
       "title": "Codes"
@@ -169,7 +177,8 @@
             "owner": "karthikncode",
             "repo": "nlp-datasets",
             "stars": 917
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -184,7 +193,8 @@
             "owner": "semantic-systems",
             "repo": "NLIWOD",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         }
       ],
       "title": "Dataset Collections"
@@ -205,7 +215,8 @@
             "owner": "google-deepmind",
             "repo": "rc-data",
             "stars": 1296
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -220,7 +231,8 @@
             "owner": "google-deepmind",
             "repo": "narrativeqa",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -234,8 +246,9 @@
             "last_commit": "2021-08-31T18:24:53Z",
             "owner": "facebookresearch",
             "repo": "ELI5",
-            "stars": 324
-          }
+            "stars": 325
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -250,7 +263,8 @@
             "owner": "Maluuba",
             "repo": "newsqa",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -265,7 +279,8 @@
             "owner": "ysu1989",
             "repo": "GraphQuestions",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         },
         {
           "node_type": "item",
@@ -280,14 +295,15 @@
             "owner": "Websail-NU",
             "repo": "CODAH",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:00:06.656Z"
         }
       ],
       "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:22:29.147Z",
+    "last_updated": "2026-08-29T00:00:06.656Z",
     "original_repository_info": {
       "archived": false,
       "id": 141653699,

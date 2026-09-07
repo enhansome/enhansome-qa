@@ -93,7 +93,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40044,
+            "stars": 40042,
             "topics": [
               "google",
               "natural-language-processing",
@@ -174,7 +174,7 @@
             "open_issues": 6,
             "owner": "HKUST-KnowComp",
             "repo": "R-Net",
-            "stars": 577,
+            "stars": 575,
             "topics": [
               "machine-comprehension",
               "nlp",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:35:57.701Z",
+    "last_updated": "2026-09-07T19:07:04.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

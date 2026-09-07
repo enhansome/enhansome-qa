@@ -197,7 +197,7 @@ Lanugage Analysis
 * [QANet](https://github.com/NLPLearn/QANet) ⭐ 985 | 🐛 22 | 🌐 Python | 📅 2018-05-30 - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
   * Google; Unofficial; Tensorflow v1.5
   * [Paper](#qanet)
-* [R-Net](https://github.com/HKUST-KnowComp/R-Net) ⭐ 577 | 🐛 6 | 🌐 Python | 📅 2018-08-08 - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
+* [R-Net](https://github.com/HKUST-KnowComp/R-Net) ⭐ 575 | 🐛 6 | 🌐 Python | 📅 2018-08-08 - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
   * MS; Unofficially by HKUST; Tensorflow v1.5
   * [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 * [DrQA](https://github.com/hitvoice/DrQA) ⭐ 400 | 🐛 9 | 🌐 Python | 📅 2022-03-26 - DrQA is a system for reading comprehension applied to open-domain question answering.
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

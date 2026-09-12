@@ -93,7 +93,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40044,
+            "stars": 40042,
             "topics": [
               "google",
               "natural-language-processing",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:25:25.288Z",
+    "last_updated": "2026-09-12T17:44:16.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

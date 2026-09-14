@@ -226,7 +226,7 @@ Lanugage Analysis
 * [DeepMind Q\&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) ⚠️ Archived
   * Hermann et al. (2015) created two awesome datasets using news articles for Q\&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   * Paper: <https://arxiv.org/abs/1506.03340>
-* [NarrativeQA](https://github.com/deepmind/narrativeqa) ⭐ 517 | 🐛 0 | 🌐 Shell | 📅 2020-04-15
+* [NarrativeQA](https://github.com/deepmind/narrativeqa) ⭐ 516 | 🐛 0 | 🌐 Shell | 📅 2020-04-15
   * It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   * Paper: <https://arxiv.org/pdf/1712.07040v1.pdf>
 * [ELI5](https://github.com/facebookresearch/ELI5) ⚠️ Archived
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

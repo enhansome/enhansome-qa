@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "google-deepmind",
             "repo": "narrativeqa",
-            "stars": 517,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:07:47.660Z",
+    "last_updated": "2026-09-14T19:49:30.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

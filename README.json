@@ -117,7 +117,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 74,
+            "open_issues": 94,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1546,
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:48:53.555Z",
+    "last_updated": "2026-09-23T19:00:27.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

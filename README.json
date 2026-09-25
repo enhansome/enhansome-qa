@@ -93,7 +93,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40046,
             "topics": [
               "google",
               "natural-language-processing",
@@ -117,7 +117,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1545,
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:04:39.124Z",
+    "last_updated": "2026-09-25T19:13:26.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

@@ -191,7 +191,7 @@ Lanugage Analysis
 * [BERT](https://github.com/google-research/bert) ⚠️ Archived - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.
   * Google; Official implementation; Tensorflow v1.11.0
   * [Paper](https://arxiv.org/abs/1810.04805)
-* [BiDAF](https://github.com/allenai/bi-att-flow) ⭐ 1,545 | 🐛 100 | 🌐 Python | 📅 2023-05-31 - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
+* [BiDAF](https://github.com/allenai/bi-att-flow) ⭐ 1,545 | 🐛 101 | 🌐 Python | 📅 2023-05-31 - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
   * Official; Tensorflow v1.2
   * [Paper](https://arxiv.org/pdf/1611.01603.pdf)
 * [QANet](https://github.com/NLPLearn/QANet) ⭐ 985 | 🐛 22 | 🌐 Python | 📅 2018-05-30 - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

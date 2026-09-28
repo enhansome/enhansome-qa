@@ -93,7 +93,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40043,
+            "stars": 40044,
             "topics": [
               "google",
               "natural-language-processing",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "google-deepmind",
             "repo": "narrativeqa",
-            "stars": 518,
+            "stars": 519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:58:18.669Z",
+    "last_updated": "2026-09-28T21:12:28.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

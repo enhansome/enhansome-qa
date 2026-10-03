@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "github: https://github.com/wissam-sib/dilbert",
-                  "description": null,
+                  "description": "wissam-sib/dilbert",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -41,7 +41,7 @@
                 {
                   "node_type": "item",
                   "title": "github: https://github.com/xwhan/ProQA",
-                  "description": null,
+                  "description": "xwhan/ProQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -246,7 +246,7 @@
         {
           "node_type": "item",
           "title": "karthinkncode's Datasets for Natural Language Processing",
-          "description": null,
+          "description": "karthikncode/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,7 +267,7 @@
         {
           "node_type": "item",
           "title": "NLIWOD's Question answering datasets",
-          "description": null,
+          "description": "semantic-systems/NLIWOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -294,7 +294,7 @@
         {
           "node_type": "item",
           "title": "DeepMind Q&A Dataset; CNN/Daily Mail",
-          "description": null,
+          "description": "google-deepmind/rc-data",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -315,7 +315,7 @@
         {
           "node_type": "item",
           "title": "NarrativeQA",
-          "description": null,
+          "description": "google-deepmind/narrativeqa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
         {
           "node_type": "item",
           "title": "ELI5",
-          "description": null,
+          "description": "facebookresearch/ELI5",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -357,7 +357,7 @@
         {
           "node_type": "item",
           "title": "NewsQA",
-          "description": null,
+          "description": "Maluuba/newsqa",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -378,7 +378,7 @@
         {
           "node_type": "item",
           "title": "GraphQuestions",
-          "description": null,
+          "description": "ysu1989/GraphQuestions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -399,7 +399,7 @@
         {
           "node_type": "item",
           "title": "CODAH Dataset",
-          "description": null,
+          "description": "Websail-NU/CODAH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:54:49.893Z",
+    "last_updated": "2026-10-03T05:06:02.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",
@@ -434,7 +434,7 @@
       "open_issues": 1,
       "owner": "seriousran",
       "repo": "awesome-qa",
-      "stars": 769,
+      "stars": 770,
       "topics": [
         "awesome",
         "awesome-list",

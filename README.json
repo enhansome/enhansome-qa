@@ -93,7 +93,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40039,
+            "stars": 40040,
             "topics": [
               "google",
               "natural-language-processing",
@@ -117,7 +117,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2023-05-31T01:34:05Z",
-            "open_issues": 101,
+            "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
             "stars": 1545,
@@ -259,7 +259,7 @@
             "open_issues": 5,
             "owner": "karthikncode",
             "repo": "nlp-datasets",
-            "stars": 919,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -349,7 +349,7 @@
             "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "ELI5",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:04:39.769Z",
+    "last_updated": "2026-10-16T18:45:46.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

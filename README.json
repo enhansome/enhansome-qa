@@ -147,7 +147,7 @@
             "open_issues": 22,
             "owner": "localminimum",
             "repo": "QANet",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "cnn",
               "machine-comprehension",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:02:28.355Z",
+    "last_updated": "2026-10-19T20:32:56.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

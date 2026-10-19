@@ -194,7 +194,7 @@ Lanugage Analysis
 * [BiDAF](https://github.com/allenai/bi-att-flow) ⭐ 1,545 | 🐛 104 | 🌐 Python | 📅 2023-05-31 - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
   * Official; Tensorflow v1.2
   * [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-* [QANet](https://github.com/NLPLearn/QANet) ⭐ 984 | 🐛 22 | 🌐 Python | 📅 2018-05-30 - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
+* [QANet](https://github.com/NLPLearn/QANet) ⭐ 985 | 🐛 22 | 🌐 Python | 📅 2018-05-30 - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
   * Google; Unofficial; Tensorflow v1.5
   * [Paper](#qanet)
 * [R-Net](https://github.com/HKUST-KnowComp/R-Net) ⭐ 575 | 🐛 6 | 🌐 Python | 📅 2018-08-08 - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

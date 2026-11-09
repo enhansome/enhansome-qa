@@ -191,7 +191,7 @@ Lanugage Analysis
 * [BERT](https://github.com/google-research/bert) ⚠️ Archived - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.
   * Google; Official implementation; Tensorflow v1.11.0
   * [Paper](https://arxiv.org/abs/1810.04805)
-* [BiDAF](https://github.com/allenai/bi-att-flow) ⭐ 1,546 | 🐛 104 | 🌐 Python | 📅 2023-05-31 - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
+* [BiDAF](https://github.com/allenai/bi-att-flow) ⭐ 1,545 | 🐛 104 | 🌐 Python | 📅 2023-05-31 - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
   * Official; Tensorflow v1.2
   * [Paper](https://arxiv.org/pdf/1611.01603.pdf)
 * [QANet](https://github.com/NLPLearn/QANet) ⭐ 985 | 🐛 22 | 🌐 Python | 📅 2018-05-30 - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
@@ -218,7 +218,7 @@ Lanugage Analysis
 
 ## Dataset Collections
 
-* [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) ⭐ 918 | 🐛 5 | 📅 2020-01-04
+* [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets) ⭐ 917 | 🐛 5 | 📅 2020-01-04
 * [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets) ⭐ 93 | 🐛 6 | 🌐 Java | 📅 2022-04-28
 
 ## Datasets
@@ -226,7 +226,7 @@ Lanugage Analysis
 * [DeepMind Q\&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data) ⚠️ Archived
   * Hermann et al. (2015) created two awesome datasets using news articles for Q\&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
   * Paper: <https://arxiv.org/abs/1506.03340>
-* [NarrativeQA](https://github.com/deepmind/narrativeqa) ⭐ 521 | 🐛 0 | 🌐 Shell | 📅 2020-04-15
+* [NarrativeQA](https://github.com/deepmind/narrativeqa) ⭐ 522 | 🐛 0 | 🌐 Shell | 📅 2020-04-15
   * It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
   * Paper: <https://arxiv.org/pdf/1712.07040v1.pdf>
 * [ELI5](https://github.com/facebookresearch/ELI5) ⚠️ Archived
@@ -356,4 +356,4 @@ To the extent possible under law, [seriousmac](https://github.com/seriousmac) (t
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

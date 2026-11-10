@@ -349,7 +349,7 @@
             "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "ELI5",
-            "stars": 327,
+            "stars": 328,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:45:28.804Z",
+    "last_updated": "2026-11-10T21:15:50.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

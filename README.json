@@ -93,7 +93,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40022,
+            "stars": 40020,
             "topics": [
               "google",
               "natural-language-processing",
@@ -120,7 +120,7 @@
             "open_issues": 104,
             "owner": "allenai",
             "repo": "bi-att-flow",
-            "stars": 1545,
+            "stars": 1544,
             "topics": [
               "bidaf",
               "nlp",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "google-deepmind",
             "repo": "narrativeqa",
-            "stars": 523,
+            "stars": 522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -349,7 +349,7 @@
             "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "ELI5",
-            "stars": 328,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:33:46.970Z",
+    "last_updated": "2026-11-19T22:38:38.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",

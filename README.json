@@ -307,7 +307,7 @@
             "open_issues": 3,
             "owner": "google-deepmind",
             "repo": "rc-data",
-            "stars": 1292,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:06.656Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:52:35.434Z",
+    "last_updated": "2026-11-22T21:00:41.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of the Question Answering (QA)",
